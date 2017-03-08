@@ -12,8 +12,8 @@ import org.quartz.JobExecutionException;
 import org.springframework.scheduling.quartz.QuartzJobBean;
 
 /**
- * @author mhy2011@163.com
- * @date 2013年12月21日
+ * @author 
+ * @date 2015年12月21日
  */
 public class ExampleJob extends QuartzJobBean {
 	
