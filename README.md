@@ -1,2 +1,0 @@
-# JavaEE-JavaWeb
-JavaEE/JavaWeb
