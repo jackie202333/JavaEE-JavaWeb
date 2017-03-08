@@ -7,8 +7,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * @author mhy2011@163.com
- * @date 2013年12月21日
+ * @author 
+ * @date 
  */
 public class ExampleJob2 {
 
